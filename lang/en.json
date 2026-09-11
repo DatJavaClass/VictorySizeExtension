@@ -1,0 +1,9 @@
+{
+  "VSE.Size.colI": "Colossal I",
+  "VSE.Size.colII": "Colossal II",
+  "VSE.Size.colIII": "Colossal III",
+  "VSE.Size.colIV": "Colossal IV",
+  "VSE.Size.colV": "Colossal V",
+  "VSE.Settings.Debug.Name": "Debug mode",
+  "VSE.Settings.Debug.Hint": "Log the extended size tables and every reach lookup past Colossal to the console with the prefix VSE |."
+}
