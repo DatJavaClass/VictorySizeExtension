@@ -2,7 +2,7 @@
   "id": "victory-size-extension",
   "title": "Victory Size Extension",
   "description": "Five size categories past Colossal for Pathfinder 1e, Colossal I through Colossal V, on a 1.5x ramp. Attack, AC, CMB, CMD, fly, stealth, carry capacity, reach, token footprint, and damage dice all follow. Picked from the normal size dropdown.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Victor S. (DatJavaClass)"

@@ -1,3 +1,5 @@
+DatJavaClass here, I am terrible at writing readme files, great at talking people through things, bad a putting pen to paper or finger to keyboard on how to. So yes, I did have an LLM write this readme. So it could be coherent. So it could be understood. So you could just maybe get an idea of what I build here. IF the fact that a readme is coherent offends you? I am sorry. If not, I hope what I made is useful and I genuinely hope it helps you have fun in your game. Roll on my friends, Roll on.
+
 # Victory Size Extension
 
 Pathfinder 1e stops at Colossal. A steam titan the size of a keep does not. Victory Size Extension adds five categories past Colossal, Colossal I through Colossal V, and the system treats them like it always had them.
